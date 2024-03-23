@@ -2,8 +2,8 @@
 This PowerBi dashboard gives employees insights to company's HR department.Measures important KPI like total working days, employees sick leaves, present days,
 half days and work from home percentage. Datasets contains year 2022 data and is used to fulfill HR's requirements by leveraging Power Bi and Excel for data analysis.
 
-Link to Dashboard
-[https://app.powerbi.com/view?r=eyJrIjoiY2ZlNzZmYzUtYWExZC00YTUwLWE2MDktN2E4NzcxNzQxNWJiIiwidCI6ImE4ZDQ4NGQ1LTI5OGUtNDgyMy04NjQ5LWI1MDk0MzM0ODlmZiJ9](url)
+[Link to Dashboard
+](https://www.novypro.com/project/hr-analytics-power-bi-dashboard-1)
 
 
 
