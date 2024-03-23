@@ -4,6 +4,9 @@ half days and work from home percentage. Datasets contains year 2022 data and is
 
 Link to Dashboard
 [https://www.novypro.com/project/hr-analytics-power-bi-dashboard-1](url)
+[https://app.powerbi.com/view?r=eyJrIjoiY2ZlNzZmYzUtYWExZC00YTUwLWE2MDktN2E4NzcxNzQxNWJiIiwidCI6ImE4ZDQ4NGQ1LTI5OGUtNDgyMy04NjQ5LWI1MDk0MzM0ODlmZiJ9
+](url)
+
 
 Measures Used are written below:
 
